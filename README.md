@@ -4,7 +4,7 @@ A skill gap analysis tool that helps students visualize their proficiency levels
 
  **Live Demo**: [https://skillsketch.vercel.app/](https://skillsketch.vercel.app/)
 
-## ✨ Features
+##  Features
 
 - ** Visual Skill Assessment**: Interactive radar charts showing your strengths and gaps
 - ** Role-Based Analysis**: Evaluate your skills against industry roles (SDE, Data Scientist, etc.)
@@ -89,7 +89,7 @@ npm run dev
 
 The frontend will be available at `http://localhost:5173`
 
-## 📡 API Endpoints
+##  API Endpoints
 
 ### `POST /evaluate`
 Evaluate a student's skill profile against a target role.
@@ -135,7 +135,7 @@ Get all available roles and their required skills.
 ]
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 skill_gap/
