@@ -2,18 +2,18 @@
 
 A skill gap analysis tool that helps students visualize their proficiency levels, identify missing skills, and get personalized learning plans with curated resources for target tech roles.
 
-🌐 **Live Demo**: [https://skillsketch.vercel.app/](https://skillsketch.vercel.app/)
+ **Live Demo**: [https://skillsketch.vercel.app/](https://skillsketch.vercel.app/)
 
 ## ✨ Features
 
-- **📊 Visual Skill Assessment**: Interactive radar charts showing your strengths and gaps
-- **🎯 Role-Based Analysis**: Evaluate your skills against industry roles (SDE, Data Scientist, etc.)
-- **📚 Personalized Learning Plans**: Automatic week-by-week schedules with prioritized resources
-- **🔍 Gap Identification**: Detailed breakdown of skill gaps with explanations
-- **📖 Curated Resources**: Hand-picked courses, tutorials, and practice materials
-- **💾 Evaluation History**: Track your progress over time
+- ** Visual Skill Assessment**: Interactive radar charts showing your strengths and gaps
+- ** Role-Based Analysis**: Evaluate your skills against industry roles (SDE, Data Scientist, etc.)
+- ** Personalized Learning Plans**: Automatic week-by-week schedules with prioritized resources
+- ** Gap Identification**: Detailed breakdown of skill gaps with explanations
+- ** Curated Resources**: Hand-picked courses, tutorials, and practice materials
+- ** Evaluation History**: Track your progress over time
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 19** - UI framework
@@ -32,7 +32,7 @@ A skill gap analysis tool that helps students visualize their proficiency levels
 - **Vercel** - Frontend hosting
 - **Render** - Backend hosting
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python 3.12+
@@ -156,7 +156,7 @@ skill_gap/
 └── QUICK_DEPLOY.md       # Quick deployment checklist
 ```
 
-## 🚢 Deployment
+##  Deployment
 
 This project is configured for free-tier deployment:
 
@@ -173,14 +173,14 @@ See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed instructions or [QUICK_DEPLOY.
 **Backend (Render):**
 - `PYTHON_VERSION` - Python version (default: 3.12.0)
 
-## 🎯 How It Works
+##  How It Works
 
 1. **Select Role**: Choose your target role (SDE, Data Scientist, etc.)
 2. **Input Skills**: Enter your proficiency levels for each skill
 3. **Get Analysis**: View your alignment score, readiness score, and skill gaps
 4. **Receive Plan**: Get a personalized week-by-week learning plan with resources
 
-## 📝 Development
+##  Development
 
 ### Running Tests
 ```bash
@@ -199,11 +199,11 @@ cd frontend
 npm run build
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Built with ❤️ for the hackathon
 - Uses curated educational resources from various platforms
